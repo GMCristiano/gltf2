@@ -291,31 +291,31 @@
   ],
   "images": [
     {
-      "uri": "textures/Steel_baseColor.jpeg"
+      "uri": "Steel_baseColor.jpeg"
     },
     {
-      "uri": "textures/Steel_metallicRoughness.png"
+      "uri": "Steel_metallicRoughness.png"
     },
     {
-      "uri": "textures/Steel_normal.png"
+      "uri": "Steel_normal.png"
     },
     {
-      "uri": "textures/Leather_baseColor.jpeg"
+      "uri": "Leather_baseColor.jpeg"
     },
     {
-      "uri": "textures/Leather_metallicRoughness.png"
+      "uri": "Leather_metallicRoughness.png"
     },
     {
-      "uri": "textures/Leather_normal.png"
+      "uri": "Leather_normal.png"
     },
     {
-      "uri": "textures/Button_baseColor.jpeg"
+      "uri": "Button_baseColor.jpeg"
     },
     {
-      "uri": "textures/Button_metallicRoughness.png"
+      "uri": "Button_metallicRoughness.png"
     },
     {
-      "uri": "textures/Button_normal.png"
+      "uri": "Button_normal.png"
     }
   ],
   "materials": [
